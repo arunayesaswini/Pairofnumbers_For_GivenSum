@@ -38,8 +38,7 @@ public class BinarySearchTree
 			numbers.add(root.data);
 			inOrder(root.right);		
 		}
-		else
-			return;
+		
 		
 	}
 	public void display()
