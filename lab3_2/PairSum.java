@@ -36,7 +36,7 @@ public class PairSum {
 				flag = 1;
 				break;
 			}
-			i++;
+			
 		}
 		if (flag == 0)
 			System.out.println("Pair not found in the given numbers");
