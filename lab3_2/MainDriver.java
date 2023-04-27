@@ -33,12 +33,12 @@ public class MainDriver {
 			pair_sum=new PairSum();
 			pair_sum.display();
 			
-			/*
+			
 			System.out.println("Enter Sum to Search");
 			int sum = sc.nextInt();
 			pair_sum = new PairSum(sum);
 			pair_sum.findPair();	
-			*/
+			
 
 		}
 	}
